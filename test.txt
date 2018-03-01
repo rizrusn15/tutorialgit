@@ -1,0 +1,6 @@
+kota
+1. bandung
+2. jakarta
+3. padang
+4. malang
+5. medan
